@@ -53,7 +53,7 @@ All end-user devices are wired using **CAT7 horizontal cabling** routed back to 
 
 ---
 
-## 📂 Active Directory (AD) Structure
+## Active Directory Structure
 
 The AD domain mirrors the corporate org structure for clean management and permission control.
 
