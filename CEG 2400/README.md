@@ -1,7 +1,7 @@
 # Techopoly Inc. Network Design Project
 
 ## Overview
-This project presents a complete physical and logical network design for Techopoly Inc.’s new 50,000 sq. ft. headquarters. The design emphasizes **security**, **scalability**, **performance**, and **structured organization**—similar to a clean VR system architecture where every layer has purpose and flow.
+This project presents a complete physical and logical network design for Techopoly Inc.’s new 50,000 sq. ft. headquarters. The design emphasizes **security**, **scalability**, **performance**, and **structured organization**s imilar to a clean VR system architecture where every layer has purpose and flow.
 
 The deliverables in this repository include:
 
